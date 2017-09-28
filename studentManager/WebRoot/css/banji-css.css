@@ -1,0 +1,50 @@
+#all{
+width:650px;
+margin: 20px auto;
+background-color: white;
+overflow:hidden;
+padding:20px;
+	border-radius: 50px;
+}
+#head,
+#foot,
+#teble-all {
+margin-top:30px;
+	width: 600px;
+	overflow: hidden;
+
+}
+
+#head input{
+	margin: 5px 10px;
+}
+#name,
+
+#stuNums {
+	width: 100px;
+	padding: 5px;
+	font-size: 12px;
+}
+
+#submit {
+	width: 100px;
+	padding: 5px;
+}
+
+#addBanji,
+#AlterBanji,
+#deleteBanji, 
+#manageSubject{
+	width: 100px;
+	margin: 0px 20px;
+	padding: 5px;
+}
+#biaoti{
+	margin-top:100px;
+	margin-left:150px;
+	font-size: 20px;
+}
+#table{
+	width:520px;
+	margin:auto;
+}

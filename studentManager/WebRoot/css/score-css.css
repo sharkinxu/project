@@ -1,0 +1,48 @@
+#all{
+width:600px;
+margin: 20px auto;
+overflow:hidden;
+padding:20px;
+	border-radius: 50px;
+}
+#head,
+#foot,
+#teble-all {
+margin-top:20px;
+	width: 600px;
+	overflow: hidden;
+
+}
+
+#head input{
+	margin: 5px 10px;
+}
+#stuname{
+	width:100px;
+	font-size:12px;
+}
+select{
+	width: 80px;
+	font-size: 12px;
+}
+
+#submit {
+	width: 100px;
+	padding: 5px;
+}
+
+
+#biaoti{
+	margin-top:50px;
+	margin-left:100px;
+	font-size: 20px;
+}
+#table{
+	width:520px;
+	margin:auto;
+}
+#table input{
+	width:100px;
+	font-size:12px;
+	
+}
